@@ -1,2 +1,2 @@
-# Beyo-lu
+# Beyoglu
 Beyoğlu
